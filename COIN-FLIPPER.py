@@ -10,7 +10,7 @@ print("                   Made by Roger Bajona")
           
 
 
-number_of_flip_coins = 10 #insert how many coins you wanna flip
+number_of_flip_coins = 10000000 #insert how many coins you wanna flip
 
 face = 0 
 cross = 0
